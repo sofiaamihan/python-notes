@@ -28,3 +28,7 @@ print(select[:27])
 # 23 // 7 = 3 - Floor Division: Round Down
 # int(8.9) - Casting: Omits Decimal Values
 # type(item)
+# len(var)
+# var.lower()
+# var.upper()
+# var.capitalize() - First Letter
