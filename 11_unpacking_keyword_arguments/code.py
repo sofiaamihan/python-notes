@@ -1,4 +1,4 @@
-# a dictionary is printed
+# Inputs stored in a DICTIONARY
 # KEYWORD = KEY (works vic versa)
 # PARAMETER = VALUE
 def named(**kwargs):

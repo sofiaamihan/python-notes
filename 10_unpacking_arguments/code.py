@@ -1,3 +1,4 @@
+# Inputs stored in a TUPLE
 # args - the variable name
 # * - it takes in an unlimited number of arguments as a tuple
 def multiply(*args):

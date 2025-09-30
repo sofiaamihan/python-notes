@@ -18,3 +18,9 @@ list_of_values = classes.values()
 for key, value in classes.items():
     print(key)
     print(value)
+
+# Getting the value of a key
+x = classes.get("Math")
+y = classes["Math"]
+
+# Loop through rows --> Uses pandas framework

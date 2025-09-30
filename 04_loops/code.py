@@ -1,3 +1,6 @@
+for number in range(1, 11, 3): # Prints 1-10, in increments of 3
+    print(number)
+
 number = 7
 while True:
     play = input("Would you like to play? (Y/n) ")

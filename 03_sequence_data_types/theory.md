@@ -4,6 +4,8 @@
 - All elements are important
 - Able to store multiple different data types
 - Mutable
+- Good to use when we have a frequent need for access
+- Not Good to use when we need a variable-size collection and frequently need to insert/delete
 
 ### Tuple / Array
 - Order matters
