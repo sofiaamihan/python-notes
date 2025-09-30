@@ -30,3 +30,8 @@ l.sort()
 # set.difference(set)
 # set.union(set)
 # set.intersection(set)
+# set.add("Mandarin")
+
+# ----- Others -----
+a = [1, 2, 3, 4]
+b = a[:] # Duplicates a without making b an alias of a !!!

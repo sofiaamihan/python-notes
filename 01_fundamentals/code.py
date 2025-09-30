@@ -67,3 +67,10 @@ print(select[:27])
 # ----- End Literals -----
 # print("hello world", end='') # Removes the newline at the end
 # print("hello","world", sep="--") # Words separated by -- instead of spaces
+
+# ----- Slicing -----
+# nums = ["a", "b", "c", "d", "e", "f"]
+# nums[2:5] # c-e, exclusive of last index
+# nums[:4] # a-d
+# nums[::2] # Multiples of 2
+# nums[::-1] # Reversed Order
