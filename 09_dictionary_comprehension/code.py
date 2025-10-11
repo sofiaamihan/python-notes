@@ -1,4 +1,5 @@
 # This method prevents complex loops inside dictionaries
+# Syntax is the same as List Comprehension when adding Conditionals
 users = [
     (0, "Bob", "password"),
     (1, "Rolf", "bob123"),

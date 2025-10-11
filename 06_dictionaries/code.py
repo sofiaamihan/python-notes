@@ -15,6 +15,7 @@ for key in classes:
 list_of_keys = classes.keys()
 list_of_values = classes.values()
 
+# Output is their original data types
 for key, value in classes.items():
     print(key)
     print(value)
@@ -22,5 +23,11 @@ for key, value in classes.items():
 # Getting the value of a key
 x = classes.get("Math")
 y = classes["Math"]
+
+# Editing a value
+classes["Physics"] = "Silver"
+
+# Deleting a row
+del classes["Chemistry"]
 
 # Loop through rows --> Uses pandas framework

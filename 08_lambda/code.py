@@ -9,6 +9,7 @@ print(subtract(5, 3))
 
 # Syntax
 # lambda params : return value
+# Directly apply the function on the return value
 
 test = [1, 2, 3, 4, 5]
 

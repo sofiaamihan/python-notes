@@ -29,7 +29,7 @@ print(select[:27])
 # math.floor() - Round Down
 # 23 // 7 = 3 - Floor Division: Round Down
 # int(8.9) - Casting: Omits Decimal Values
-# type(item) m
+# type(item)
 # len(var)
 # var.lower()
 # var.upper()

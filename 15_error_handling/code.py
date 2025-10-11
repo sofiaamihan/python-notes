@@ -74,3 +74,5 @@ else:
     print("-- All student averages calculated --")
 finally:
     print("-- End of student average calculation --")
+
+# TODO - Continue pages 21-23 here
